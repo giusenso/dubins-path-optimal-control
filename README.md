@@ -1,7 +1,8 @@
 ## Markov-Dubins Problem: an Optimal Control Approach
 
-Author: Giuseppe Sensolini Arrà, *Sapienza University of Rome*.  
-Note: this work has been developed in the context of the *Optimal Control* course of the MSc in *Control Engineering*.
+Author: Giuseppe Sensolini Arrà, *Sapienza University of Rome*.\
+Technical report can be found [here](Markov-Dubins_problem_an_optimal_control_approach.pdf).\
+Note: this work has been developed in the context of the Optimal Control course of the MSc in Control Engineering.
 
 <img src="simulations/img/unicycle.PNG"  width="800" align="center">
 
